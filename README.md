@@ -51,6 +51,11 @@ No external libraries or frameworks are used—100% vanilla frontend.
 - Add character avatars or decision timers
 - Store player progress using localStorage
 
+- ![image](https://github.com/user-attachments/assets/3166fd05-a3e7-4256-887e-dc623b53d7ac)
+- ![image](https://github.com/user-attachments/assets/0f5117b8-267d-4f4b-a38b-a2c0bd6e47fa)
+
+
+
 ## 👤 Author
 
 **Created by:** Sreejith  (Engineering Student)  
